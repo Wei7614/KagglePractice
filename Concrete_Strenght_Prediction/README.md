@@ -1,0 +1,3 @@
+# Concrete_Strenght_Prediction
+
+這是利用kaggle上面的水泥資料來做水泥強度預測的練習
