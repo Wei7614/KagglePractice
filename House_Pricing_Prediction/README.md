@@ -1,0 +1,3 @@
+# House_Pricing_Prediction
+
+這是kaggle上面的最基本的預測專案，是利用Boston過去的房地產資料來預測未來的房價資料
